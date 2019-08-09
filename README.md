@@ -1,4 +1,4 @@
-<b><h1><u>Preprocessing and Training</u></h1> </b>
+<b><h3><u>Preprocessing and Training</u></h3> </b>
 
 Reading the Titanic data
 
