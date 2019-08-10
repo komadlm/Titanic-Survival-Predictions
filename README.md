@@ -36,4 +36,6 @@ test_data_set should be in .csv format
 
 1. train.csv : Contains train data set
 2. test.csv : Contains test data set.
- : Python code file
+3. Titanic Solution 24 July 2019.ipynb : Python code file
+4. LogSub1 : First submission/preditcion
+5. LogSub2 : Prediction data after feature egineering.
