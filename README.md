@@ -1,3 +1,5 @@
+# Description
+
 Applied the Machine Learning algorithm (Logistic Regression) to predict survival rate on the Titanic disaster data.
 
 <b><h3><u>Preprocessing and Training</u></h3> </b>
