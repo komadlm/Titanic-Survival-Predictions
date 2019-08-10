@@ -1,8 +1,8 @@
-# Description
+<b><h3>Description</h3></b>
 
 Applied the Machine Learning algorithm (Logistic Regression) to predict survival rate on the Titanic disaster data.
 
-<b><h3><u>Preprocessing and Training</u></h3> </b>
+<b><h3>Preprocessing and Training</h3></b>
 
 Reading the Titanic data
 
@@ -31,3 +31,9 @@ Applied the Feature Engineering to the dataset to get better prediction score.
 Again created dummies, spliting data into Train and Test and training the model using the new train dataset, saving the predicted value as LogSub2.csv and uploaded to Kaggle which gave the prediction score 0.78.
 
 test_data_set should be in .csv format 
+
+<b><h3>Attachments</h3></b>
+
+1. train.csv : Contains train data set
+2. test.csv : Contains test data set.
+ : Python code file
